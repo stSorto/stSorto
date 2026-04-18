@@ -1,13 +1,9 @@
 ## Elmer Sorto👋
 
-## Saludo o título
+## Saludo 
 
 # !!! Hola !!!!
 Mi nombre es : **_Elmer Sorto_**  y te doy la bienvenida a mi respositorio 
-
-
-**This text will be bold**  
-__This will also be bold__
 
 ## Sobre mí
 
@@ -35,8 +31,8 @@ __This will also be bold__
 
 
 ## Proyectos
-*Pasitos...Seguros
-*Ratomatic
+* Pasitos...Seguros -Proyecto Lecto Escritura
+* Ratomatic  - Proyecto Matemática
 > Estos proyectos los realice para eventos  de Docentes innovadores, pero fueron creados para la parte de escritorio y por tiempo ya no los desarrolle para la web.
 
 ## Correo Electronico
